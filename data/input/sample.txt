@@ -1,0 +1,13 @@
+# Sample input mixing plain domains, URLs and scan-style text.
+example.com
+Google.COM
+api.example.com
+subdomain.example.org.
+https://www.Example.net:8443/login?next=/a#top
+http://user:secret@admin.example.com/panel
+*.wildcard.example.io
+bücher.example
+Nmap scan report for mail.example.org (10.0.0.5)
+contact: admin@example.com
+See notes.txt and version 1.2.3 for details.
+example.com
